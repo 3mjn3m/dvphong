@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs" value="name:Ho ten;datatype:string,name:Ten dang nhap;datatype:string,name:Password;datatype:string,name:Email;datatype:string,name:So dien thoai;datatype:int" />
+</info>
